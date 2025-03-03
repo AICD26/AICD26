@@ -21,4 +21,4 @@ I wrote some scripts in Bash to manage:
 
  I write script solutions in Bash mainly. In this case, for RedHat 7.9 and 8.10 problems I find in my daily routine.
 
- The most recent one I trying to write is for the login screen of RedHat 8.10. The idea is to allow IDM (IPA) users to change their expired password from the login screen since GDM can't manage that situations.
+ The most recent script I'm trying to write is for the login screen of RedHat 8.10. The idea is to allow IDM (IPA) users to change their expired password from the login screen since GDM can't manage that situations.
